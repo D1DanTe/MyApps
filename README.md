@@ -29,7 +29,15 @@ python calculator.py
 For the game: Run the file:
 python game.py
 
-Technologies
+Technologies^
 Python
 Kivy
 Pygame
+
+## Screenshots
+
+### Calculator:
+![Calculator Screenshot](assets/calculator_screenshot.png)
+
+### Game:
+![Game Screenshot](assets/game_screenshot.png)
